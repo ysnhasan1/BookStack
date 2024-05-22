@@ -1,2 +1,2 @@
 # BookStack
-Creating a Book Library using HTML, CSS, Bootstrap, JavaScript and JSON Server.
+`This website created for "Turkcell Gençlere Yatırım, Geleceğe Yazılım 3.0 Bootcamp Midterm2"`
