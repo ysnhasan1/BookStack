@@ -1,5 +1,5 @@
-<img src="https://github.com/ysnhasan1/BookStack/assets/102024926/cac523d6-d187-471f-8344-bd43cf1a54bb" height="50"> <br><br>
-`This website created for "Turkcell Gençlere Yatırım, Geleceğe Yazılım 3.0 Bootcamp Midterm2"` <br><br>
+# BookStack
+`This website created for "Turkcell Gençlere Yatırım, Geleceğe Yazılım 3.0 Bootcamp Midterm2"`
 
 ## About The Project
 In this project, I wanted to create a website using **HTML**, **CSS**, **Bootstrap** and **JavaScript**. <br>
