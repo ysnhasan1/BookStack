@@ -32,6 +32,7 @@ Users can also find books in the list by using filtering features such as book n
 
 </div>
 
-## Running The Project Locally
-Run the command `cd data`, then to start the JSON Server, run `npx json-server books.json`. <br> 
+## Project Dependencies
+Firstly, run the command `npm install json-server` in the terminal. <br> 
+Then, run the command `cd data`, and then to start the JSON Server, run `npx json-server books.json`. <br> 
 Finally, open the "index.html" file located in the app folder with "Open with Live Server".
