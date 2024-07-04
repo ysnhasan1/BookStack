@@ -1,5 +1,5 @@
 # BookStack
-`This website created for "Turkcell Gençlere Yatırım, Geleceğe Yazılım 3.0 Bootcamp Midterm2"`
+`This website created for "Turkcell Gençlere Yatırım, Geleceğe Yazılım 3.0 Bootcamp Midterm2"` <br><br>
 
 ## About The Project
 In this project, I wanted to create a website using **HTML**, **CSS**, **Bootstrap** and **JavaScript**. <br>
